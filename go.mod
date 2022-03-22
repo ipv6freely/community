@@ -3,13 +3,13 @@ module tidbyt.dev/community
 go 1.17
 
 require (
-	github.com/spf13/cobra v1.3.0
-	github.com/stretchr/testify v1.7.0
+	github.com/spf13/cobra v1.4.0
+	github.com/stretchr/testify v1.7.1
 )
 
 require (
 	github.com/manifoldco/promptui v0.9.0
-	tidbyt.dev/pixlet v0.16.1
+	tidbyt.dev/pixlet v0.17.0
 )
 
 require (
@@ -39,8 +39,9 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/qri-io/starlib v0.5.1-0.20211102160121-ae835e29cd41 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/tidbyt/go-libwebp v0.0.0-20220302033350-dd1cead28df2 // indirect
 	github.com/zachomedia/go-bdf v0.0.0-20210522061406-1a147053be95 // indirect
-	go.starlark.net v0.0.0-20211203141949-70c0e40ae128 // indirect
+	go.starlark.net v0.0.0-20220223235035-243c74974e97 // indirect
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410 // indirect
 	golang.org/x/net v0.0.0-20210825183410-e898025ed96a // indirect
